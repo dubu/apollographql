@@ -24,4 +24,3 @@ and
 cd final/client && npm i && npm start
 ```
 
-.
